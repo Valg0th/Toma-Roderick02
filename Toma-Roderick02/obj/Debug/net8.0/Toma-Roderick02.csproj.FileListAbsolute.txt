@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\bin\Debug\net8.0\Toma-Roderick02.exe
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\bin\Debug\net8.0\Toma-Roderick02.deps.json
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\bin\Debug\net8.0\Toma-Roderick02.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\bin\Debug\net8.0\Toma-Roderick02.dll
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\bin\Debug\net8.0\Toma-Roderick02.pdb
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\Toma-Roderick02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\Toma-Roderick02.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\Toma-Roderick02.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\Toma-Roderick02.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\Toma-Roderick02.dll
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\refint\Toma-Roderick02.dll
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\Toma-Roderick02.pdb
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\Toma-Roderick02.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CURSOS\MEUS CURSOS\TREINO\Toma-Roderick02\Toma-Roderick02\obj\Debug\net8.0\ref\Toma-Roderick02.dll
